@@ -4,7 +4,7 @@ I'm Sabbir from Bangladesh, and I do content on Design and Development. I really
 
 <br/>
 <br/>
-## Language and tools:
+
 
 ### Languages and Tools:
 
@@ -15,7 +15,7 @@ I'm Sabbir from Bangladesh, and I do content on Design and Development. I really
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
 [<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />]
-[<img align="left" alt="Deno" width="30px" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/php.png" />]
+
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]
@@ -27,7 +27,7 @@ I'm Sabbir from Bangladesh, and I do content on Design and Development. I really
 <br/>
 <br/>
 <br/>
-
+hello
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=sabbir17&card_width=550)](https://github.com/sabbir179)
 
 <details>
