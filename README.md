@@ -7,6 +7,8 @@ I'm Sabbir from Bangladesh, and I do content on Design and Development. I really
 
 
 ### Languages and Tools:
+<br/>
+<br/>
 
 [<img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
 [<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][
@@ -27,11 +29,15 @@ I'm Sabbir from Bangladesh, and I do content on Design and Development. I really
 <br/>
 <br/>
 
-
-
+### Social link:
+<br/>
+<br/>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='32'>](https://github.com/sabbir179)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='32'>](https://www.linkedin.com/in/sabbir-ahmed-623b609/)  
 <br/>
 <br/>
+<br/>
+<br/>
+### git status
 <br/>
 <br/>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sabbir179&show_icons=true)                 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabbir179&exclude_repo=github-readme-stats,sabbir179.github.io)
