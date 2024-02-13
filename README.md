@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Sabbir from Bangladesh, and I do content on Design and Development. I really enjoy learning new languages and frameworks like React, Node Js, express js, as well as work in wordpress. I also enjoy wireframing, UI, UX, and design in general. you can contact me : mail.sabbir17@gmail.com
+I'm Sabbir from London,UK, and I doing my master's in Data Science. I really enjoy learning new languages and frameworks like React, Node Js, express js, as well as work in wordpress. . you can contact me : devsabbir17@gmail.com
 
 <br/>
 <br/>
