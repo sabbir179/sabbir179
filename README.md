@@ -1,40 +1,26 @@
-### Hi there 👋
 
-I'm Sabbir from London,UK, and I doing my master's in Data Science. I really enjoy learning new languages and frameworks like React, Node Js, express js, as well as work in wordpress. . you can contact me : devsabbir17@gmail.com
+👋 Hi, I’m Sabbir Ahmed
+📍 Based in London, UK | 🎓 MSc in Data Science (2024)
+📧 devsabbir17@gmail.com | 🌐 LinkedIn
 
-<br/>
-<br/>
+I’m a data analyst with 5+ years of experience transforming complex datasets into actionable insights. I specialize in business intelligence, reporting automation, and data visualization using tools like Power BI, Tableau, SQL, and Python.
 
+🔹 I love building interactive dashboards, streamlining reporting processes, and turning data into stories that support smart decision-making.
+🔹 My work has helped reduce manual reporting by 30%, improve operational efficiency, and standardize BI practices across multiple organizations.
+🔹 Comfortable working in Agile environments and collaborating with both technical teams and business stakeholders.
 
-### Languages and Tools:
-<br/>
-<br/>
+💡 I’m passionate about continuous learning and always exploring new technologies in data science and machine learning.
 
-<img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="MySQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+🛠️ Tech Stack
+BI Tools: Power BI, Tableau, Advanced Excel
 
-<br/>
-<br/>
-<br/>
-<br/>
+Languages: SQL, Python, VBA
 
-### Social links:
+Database: Microsoft SQL Server
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='32'>](https://github.com/sabbir179)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='32'>](https://www.linkedin.com/in/sabbir-ahmed-623b609/)  
-<br/>
-<br/>
-<br/>
-<br/>
+Cloud: AWS (Foundations)
 
-### github status:
+Other: ETL, Data Modeling, KPI Reporting, Stakeholder Communication
 
-![Sabbir's github stats](https://github-readme-stats.vercel.app/api?username=sabbir179&show_icons=true)                 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabbir179&exclude_repo=github-readme-stats,sabbir179.github.io)
+📈 Let’s Collaborate!
+I'm open to data-focused projects, dashboard optimization, and real-world problem-solving using analytics. Feel free to check out my repos or connect with me on LinkedIn.
