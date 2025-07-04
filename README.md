@@ -5,9 +5,7 @@
 
 I’m a data analyst with 5+ years of experience transforming complex datasets into actionable insights. I specialize in business intelligence, reporting automation, and data visualization using tools like Power BI, Tableau, SQL, and Python.
 
-🔹 I love building interactive dashboards, streamlining reporting processes, and turning data into stories that support smart decision-making.
-🔹 My work has helped reduce manual reporting by 30%, improve operational efficiency, and standardize BI practices across multiple organizations.
-🔹 Comfortable working in Agile environments and collaborating with both technical teams and business stakeholders.
+
 
 💡 I’m passionate about continuous learning and always exploring new technologies in data science and machine learning.
 
